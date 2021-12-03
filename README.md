@@ -14,5 +14,5 @@ password="YOUR USER mysqlbackup PASSWORD"
 ## SAVE AND EXIT
 
 3- make file mysql_full_backup.sh excutable
-4- run mysql_full_backup.sh 
+4- run mysql_full_backup.sh
 5- if you what to make it schedule run you can add it in crontab
